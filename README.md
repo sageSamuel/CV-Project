@@ -9,7 +9,8 @@ This is a basic project to create a CV using only HTML.
 
 ## Access
 
-You can view the CV by opening the `index.html` file in your browser from here: 
+You can view the CV by opening the "file:///C:/Users/SAMUEL/OneDrive/Desktop/Simple%20CV%20project%20in%20html/Cv.html" file in your browser from here: 
+https://roadmap.sh/projects/single-page-cv
 
 ## License
 
